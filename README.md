@@ -1,11 +1,11 @@
-# Check Sạc (v3)
+# Check Sạc (v4)
 
 App Android siêu nhẹ đo công suất sạc thực tế (W), hiện trên thanh trạng thái khi cắm sạc và màn hình bật.
 
 ## Build bằng GitHub Actions
 1. Giải nén zip, đẩy TOÀN BỘ nội dung (kể cả thư mục ẩn `.github`) lên repo GitHub (nhánh `main`).
 2. Vào tab **Actions** -> workflow **Build APK** (tự chạy khi push, hoặc bấm *Run workflow*).
-3. Chạy xong, kéo xuống mục **Artifacts** -> tải `CheckSac-v3-apk` -> giải nén lấy file `app-debug.apk`.
+3. Chạy xong, kéo xuống mục **Artifacts** -> tải `CheckSac-v4-apk` -> giải nén lấy file `app-debug.apk`.
 4. Cài lên máy, mở app, bấm nút BẬT, cấp quyền thông báo.
 
 ## Cách hoạt động
